@@ -1,0 +1,6 @@
+docker-compose.localdb.yml
+config/local.yml
+storage/
+.git/
+.gitignore
+README.md

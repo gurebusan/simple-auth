@@ -1,0 +1,12 @@
+env: "prod"
+token:
+  access_ttl: 5m
+  refresh_ttl: 72h
+http_server:
+  address: ":8084"
+  timeout: 10s
+  idle_timeout: 60s
+email:
+  from: "noreply@example.com"
+  smtp_host: "smtp.example.com"
+  smtp_port: 587
