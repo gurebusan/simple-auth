@@ -1,5 +1,5 @@
 .env
-./storage
+storage
 docker-compose.localdb.yml
 config/local.yml
 
